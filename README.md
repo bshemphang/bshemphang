@@ -20,6 +20,10 @@ I build web apps end to end: storefronts, dashboards, and tools in TypeScript, R
 - [qie-agent-escrow](https://github.com/bshemphang/qie-agent-escrow) - Trustless escrow for AI-agent work on QIE. QIE Hackathon 3.0.
 - [best-game-01-kazeharu](https://github.com/bshemphang/best-game-01-kazeharu) - KAZEHARU, a tactics game entry for the make.fun best-game-01 bounty.
 
+## Open Source Contributions
+
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
 ## Contact
 
 - Email: bshemphang@gmail.com
